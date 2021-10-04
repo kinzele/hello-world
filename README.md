@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+trying to learn github before impacting the student project
